@@ -30,6 +30,11 @@ The financial platform groups complex public tracking data into a fluid, logical
 ### 4. 🔮 Future Horizons (5-Year Predictive Modeling)
 * **The Story:** An algorithmic projection workbench letting users select a baseline financial metric and chart its projected pathway through the next 5 sequence intervals.
 * **The Translation:** Employs a rolling linear trend model to show exactly where modern structural momentum will carry key variables by 2030, provided macro habits remain steady.
+---
+
+## 🌐 Live Demo
+
+👉 **Live Dashboard:** [https://your-streamlit-app-url.streamlit.app](https://lajema-kenya-economic-story-app-r84vx5.streamlit.app/)
 
 ---
 
